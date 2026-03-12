@@ -12,7 +12,7 @@ public class problem13 {
         for (int i : numbers) {
             num_sum += i;
         }
-        System.out.print(expected_num - num_sum);
+        System.out.print( expected_num - num_sum);
         System.out.print("\n");
     }
 }
